@@ -33,7 +33,7 @@ Sending emails to purchased or rented lists is in violation of your Braze contra
 
 ### Co-registration
 
-Co-registration refers to an arrangement between companies to collect user information. This is a risky method of collection. It opts users into receiving emails from third parties, sometimes without the customer's knowledge or permission. If you go this route, be sure to have clear disclosures and the ability to unsubscribe at the point of collection.
+Co-registration refers to an arrangement between companies to collect user information. This is a risky method of collection and is also a violation of our Acceptable Use Policy. It opts users into receiving emails from third parties, sometimes without the customer's knowledge or permission. If you go this route, be sure to have clear disclosures and the ability to unsubscribe at the point of collection.
 
 ### Pre-selected or forced opt-in
 
